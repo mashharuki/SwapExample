@@ -20,5 +20,11 @@ module.exports = {
     hardhat: {
       chainId: 1337              // this is needed for MetaMask
     }, 
-  }
+  },
+  settings: {
+    optimizer: {
+      enabled: true,
+      runs: 200
+    }
+  },
 };
