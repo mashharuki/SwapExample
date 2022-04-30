@@ -16,3 +16,5 @@ UniSwapの様なDEXアプリを作成するためのリポジトリです。
        (, , address token0, address token1, , , , uint128 liquidity, , , , ) = 
                   nonfungiblePositionManager.positions(tokenId);
   ```
+
+  ↑ 12個の変数を一度に受け取ろうとしているため発生している。
