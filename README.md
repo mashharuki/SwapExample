@@ -3,7 +3,7 @@ UniSwapの様なDEXアプリを作成するためのリポジトリです。
 
 ## Uniswap
   世界的に有名なDEXのこと。  
-  AMM形式を取り入れた交換所で、管理者不在となっている。
+  AMM形式の考え方を取り入れた交換所で、管理者不在となっている。
 
 ### エラーコード
   CompilerError: Stack too deep when compiling inline assembly: Variable headStart is 1 slot(s) too deep inside the stack.  
@@ -48,6 +48,9 @@ UniSwapの様なDEXアプリを作成するためのリポジトリです。
       tradeType: 0
     }
   ```
+
+### Swap DAppのイメージ
+  <img src="./assets/images/sample.png" />
 
 ### 参考文献
  1. <a href="https://docs.uniswap.org/sdk/widgets/swap-widget#web3-provider">UniSwapの公式ドキュメント</a>
