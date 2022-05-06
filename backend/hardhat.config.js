@@ -11,7 +11,7 @@ task("accounts", "Prints the list of accounts", async (taskArgs, hre) => {
 });
 
 module.exports = {
-  solidity: "0.7.6",
+  solidity: "0.8.4",
   paths: {                         // add this 
     artifacts: './../client/src/artifacts',  // this is where our compiled contracts will go
   },
