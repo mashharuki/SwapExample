@@ -55,3 +55,4 @@ UniSwapの様なDEXアプリを作成するためのリポジトリです。
 ### 参考文献
  1. <a href="https://docs.uniswap.org/sdk/widgets/swap-widget#web3-provider">UniSwapの公式ドキュメント</a>
  2. <a href="https://medium.com/geekculture/how-to-add-the-uniswap-swap-widget-to-your-react-dapp-9be353e2bd46">Swap Widgetの導入方法について</a>
+ 3. <a href="https://www.youtube.com/watch?v=6qMTFkVEUwk">ブロックアカデミーのdapp開発講座</a>
