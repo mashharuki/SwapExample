@@ -1,3 +1,5 @@
+require("@nomiclabs/hardhat-truffle5");
+require("@nomiclabs/hardhat-web3");
 require("@nomiclabs/hardhat-waffle");
 const fs = require('fs');
 const mnemonic = fs.readFileSync(".secret").toString().trim();
